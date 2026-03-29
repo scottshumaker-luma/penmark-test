@@ -452,3 +452,6 @@ Meet teams where they are and ratchet up over time:
 - Push teams to the next level individually as they're ready — don't force the whole org to level 3 at once
 
 - Some goals will naturally stay at Level 1 (infrastructure work, migrations) and that's fine — not everything has a user-facing outcome metric
+## Performance
+
+This section was added on the arch-update branch.
