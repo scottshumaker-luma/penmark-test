@@ -1,13 +1,14 @@
-
 # PW-TEST-1775023881917PW-TEST-1774413416452PW-TEST-1774412411676PW-TEST-1774411693532Contributing
 
 ## Development Setup
 
 1. Clone the repo
-2. Install dependencies: `npm install`
-3. Set up environment variables (see `.env.local.example`)
-4. Run migrations: `npx drizzle-kit push`
-5. Start dev server: `npm run dev`
+2. Install dependencies: `npm instal`
+3. 
+4. `PW-TEST-1775716659236l`
+5. Set up environment variables (see `.env.local.example`)
+6. Run migrations: `npx drizzle-kit push`
+7. Start dev server: `npm run dev`
 
 PW-TEST-1774412464804
 
