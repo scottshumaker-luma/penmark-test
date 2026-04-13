@@ -1,3 +1,3 @@
 # External Merge Test
 
-Initial content.
+Externally modified content!
