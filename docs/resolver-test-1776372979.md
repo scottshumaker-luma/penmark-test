@@ -1,7 +1,10 @@
 # Test Doc
 
 ## Section A
-Original content here.
+User-edited content with important context.
 
 ## Section B
 More original content.
+
+## User Notes
+Deadline is Friday.
