@@ -1,7 +1,10 @@
 # Test Doc
 
 ## Section A
-Original content here.
+Rewritten with business value framing for stakeholders.
 
 ## Section B
-More original content.
+Expanded with technical architecture details.
+
+## Technical Notes
+Implementation plan for phase 1.
